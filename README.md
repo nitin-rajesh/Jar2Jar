@@ -1,5 +1,5 @@
 # Jar2Jar
-*A peer to peer network emulator*
+A peer to peer network emulator
 
 ## How to use the API in your own project
 
